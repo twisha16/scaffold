@@ -57,5 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# bundle
+dist/app.bundle.js
+
 # next.js build output
 .next
